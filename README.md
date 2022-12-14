@@ -1,2 +1,2 @@
 # readme-monitor-test
-[](http://divlop.com:8080/ping)
+![alt img](http://divlop.com:8080/ping.png)
